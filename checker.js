@@ -394,8 +394,8 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 4",
-                address: "8.31.99.136",
-                port: "8585",
+                address: "18.196.214.254",
+                port: "8586",
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
@@ -404,7 +404,7 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 5",
-                address: "8.31.99.162",
+                address: "18.185.212.79",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -414,8 +414,8 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 6",
-                address: "8.31.99.137",
-                port: "8585",
+                address: "18.185.212.79",
+                port: "8586",
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
@@ -424,7 +424,7 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 7",
-                address: "8.31.99.195",
+                address: "18.185.222.77",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -434,8 +434,8 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 8",
-                address: "8.31.99.138",
-                port: "8585",
+                address: "18.185.222.77",
+                port: "8586",
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
@@ -444,7 +444,7 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 9",
-                address: "8.31.99.163",
+                address: "52.28.244.80",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -454,8 +454,8 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 10",
-                address: "8.31.99.144",
-                port: "8585",
+                address: "52.28.244.80",
+                port: "8586",
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
@@ -464,7 +464,7 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 11",
-                address: "8.31.99.196",
+                address: "35.156.74.223",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -474,8 +474,8 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 12",
-                address: "8.31.99.145",
-                port: "8585",
+                address: "35.156.74.223",
+                port: "8586",
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
@@ -484,7 +484,7 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 13",
-                address: "8.31.99.157",
+                address: "18.184.117.231",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -494,8 +494,8 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 14",
-                address: "8.31.99.146",
-                port: "8585",
+                address: "18.184.117.231",
+                port: "8586",
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
@@ -504,7 +504,7 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 15",
-                address: "8.31.99.197",
+                address: "18.185.244.143",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -514,8 +514,8 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 16",
-                address: "8.31.99.158",
-                port: "8585",
+                address: "18.185.244.143",
+                port: "8586",
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
@@ -524,7 +524,7 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 17",
-                address: "8.31.99.147",
+                address: "52.28.30.254",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -534,8 +534,8 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 18",
-                address: "8.31.99.148",
-                port: "8585",
+                address: "52.28.30.254",
+                port: "8586",
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
@@ -544,7 +544,7 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 19",
-                address: "8.31.99.150",
+                address: "18.194.156.42",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -554,8 +554,8 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 20",
-                address: "8.31.99.149",
-                port: "8585",
+                address: "18.194.156.42",
+                port: "8586",
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
@@ -564,8 +564,8 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Cash Shop",
-                address: "8.31.99.192",
-                port: "8786",
+                address: "18.197.93.93",
+                port: "8796",
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
