@@ -564,7 +564,7 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Cash Shop",
-                address: "18.197.93.93",
+                address: "18.194.93.93",
                 port: "8796",
                 interval: 5000,
                 values: [],
