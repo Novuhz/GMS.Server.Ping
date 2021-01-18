@@ -364,7 +364,7 @@ var servers = {
         Reboot: [{
                 icon: "Reboot.png",
                 name: "Channel 1",
-                address: "8.31.99.161",
+                address: "18.185.225.213",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -374,8 +374,8 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 2",
-                address: "8.31.99.135",
-                port: "8585",
+                address: "18.185.225.213",
+                port: "8586",
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
@@ -384,7 +384,7 @@ var servers = {
             {
                 icon: "Reboot.png",
                 name: "Channel 3",
-                address: "8.31.99.237",
+                address: "18.196.214.254",
                 port: "8585",
                 interval: 5000,
                 values: [],
